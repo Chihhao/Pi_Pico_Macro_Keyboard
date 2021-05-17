@@ -43,8 +43,14 @@ IO13 --- SW7 --- GND
 IO14 --- SW8 --- GND  
 IO15 --- SW9 --- GND  
 
-## 6. 注意
-### 6.1 按下按鈕時，Pico會模擬鍵盤輸入：右Ctrl + 右Alt + num(1~9)   
-### 6.2 透過 AutoHotKey (執行Marco_Keyboard.ahk) 的轉換成指令  
-### 6.3 你必須修改 Marco_Keyboard.ahk，調整成適合你的電腦的指令
+## 6. 3D列印外殼
+### 6.1 鍵帽
+https://www.thingiverse.com/thing:4861315
+### 6.2 底座
+https://www.thingiverse.com/thing:4816077
+
+## 7. 注意
+### 7.1 按下按鈕時，Pico會模擬鍵盤輸入：右Ctrl + 右Alt + num(1~9)   
+### 7.2 透過 AutoHotKey (執行Marco_Keyboard.ahk) 的轉換成指令  
+### 7.3 你必須修改 Marco_Keyboard.ahk，調整成適合你的電腦的指令
 
