@@ -7,4 +7,4 @@
 >^>!6::run "C:\nirtools\ControlMyMonitor" "/ChangeValue" "VA32AQ" "10" +2
 >^>!7::run "C:\nirtools\MultiMonitorTool" "/switch" "\\.\DISPLAY2"
 ;>^>!8::run DO NOTHING
->^>!9::run "C:\Macro_Keybaord\DisableMonitor.exe"
+>^>!9::run "C:\DisableMonitor.exe"
