@@ -27,10 +27,10 @@ https://www.nirsoft.net/utils/multi_monitor_tool.html
 ## 準備 Rpi-Pico
 ### 安裝 CircuitPython
 (1) 下載 UF2 檔案: https://circuitpython.org/board/raspberry_pi_pico/  
-(2) 按住開發板 BOOTSEL 按鈕不要放開，將 Pico 接上 USB ，然後鬆開 BOOTSEL 按鈕，此時「我的電腦」裡會顯示一個磁碟機，就像隨身碟一樣
-(3) 將 UF2 檔案放進該磁碟機，此時 Pico 會自動重啟
-(4) 將 code.py 放進該磁碟機（覆蓋原有的檔案），此時 Pico 會自動重啟
-(5) 完成！
+(2) 按住開發板 BOOTSEL 按鈕不要放開，將 Pico 接上 USB ，然後鬆開 BOOTSEL 按鈕，此時「我的電腦」裡會顯示一個磁碟機，就像隨身碟一樣  
+(3) 將 UF2 檔案放進根目錄，此時 Pico 會自動重啟  
+(4) 將 adafruit_hid 整個資料夾放在 lib 底下，此時 Pico 會自動重啟 (Library 來自 https://github.com/adafruit/Adafruit_CircuitPython_HID)  
+(5) 將 code.py 放進根目錄（覆蓋原有的檔案），此時 Pico 會自動重啟  
 
 ### Rpi-Pico 線路圖
 
