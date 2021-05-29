@@ -15,13 +15,13 @@ http://blog.4dcu.be/diy/2021/04/05/Macropad.html
 ### 4.1 AutoHotKey: (請到官網下載)  
 定義快捷鍵，其功能強大不必多說  
 https://www.autohotkey.com/  
-### 4.2 ControlMyMonitor.exe:  (內含，不必下載)  
+### 4.2 ControlMyMonitor.exe:  (內含，不必另外下載)  
 能夠調整螢幕亮度  
 https://www.nirsoft.net/utils/control_my_monitor.html  
-### 4.3 MultiMonitorTool.exe: (內含，不必下載)  
+### 4.3 MultiMonitorTool.exe: (內含，不必另外下載)  
 能夠開關第二個螢幕  
 https://www.nirsoft.net/utils/multi_monitor_tool.html  
-### 4.4 Disable_Monitor.exe: (內含，不必下載)  
+### 4.4 Disable_Monitor.exe: (內含，不必另外下載)  
 能夠同時關閉兩個螢幕 
 
 ## 5. 準備 Rpi-Pico
